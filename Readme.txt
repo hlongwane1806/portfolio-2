@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+This is my portfolio project for my website on : 
+https://anelehlongwane.netlify.app/
 
-Template Name: Freelance
-Template URL: https://templatemag.com/freelance-bootstrap-template/
-Author: TemplateMag.com
-License: https://templatemag.com/license/
+
